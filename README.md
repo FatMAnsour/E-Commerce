@@ -1,4 +1,4 @@
-"# online-store" 
+## E-Commerce ProJect
 
 This project is an e-commerce application built with Django, following the structure and practices taught in Mosh Hamedani's Django course. The application demonstrates core concepts of Django, including ORM, views, templates, authentication, and API integration.
 
